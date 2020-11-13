@@ -1,0 +1,6 @@
+x = 5
+y = 3
+
+z = x + y
+
+#Aufgabe: Stellen Sie alle Multiplikationsergebnisse von "z" bis zum Ergebnis 792 dar.
